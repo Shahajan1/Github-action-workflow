@@ -9,4 +9,4 @@ jobs:
 
       steps:
         - name: Greeting
-          run: echo"only quality people"
+          run: echo"only quality peoples"
